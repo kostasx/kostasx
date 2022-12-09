@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Minaidis Kostas StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4861760)](https://stackoverflow.com/users/4861760/kostas-minaidis)
-
-
 <!--
 **kostasx/kostasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

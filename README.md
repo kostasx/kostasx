@@ -108,6 +108,10 @@ Software Developer and Tech Instructor
 <p><strong>Databases</strong></p>
 
 <p align="left">
+
+  <a href="https://https://stackoverflow.com/users/4861760/" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+     width="32" height="32" alt="StackOverflow" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
       width="36" height="36" alt="GraphQL" /></a>

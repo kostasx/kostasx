@@ -77,41 +77,32 @@ Software Developer and Tech Instructor
 <p><strong>Backend Technologies</strong></p>
 
 <p align="left">
-
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
       width="36" height="36" alt="NodeJS" /></a>
-
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
       width="36" height="36" alt="Express" /></a>
-
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
       width="36" height="36" alt="Python" />
   </a>
-
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
       width="36" height="36" alt="NextJs" /></a>
-
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
       width="36" height="36" alt="PHP" />
   </a>
-
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
       width="36" height="36" alt="Flask" /></a>
-
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
       width="36" height="36" alt="Django" /></a>
-
   <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg"
       width="36" height="36" alt="Gatsby" /></a>
-
 </p>
 
 <p><strong>Databases</strong></p>
@@ -138,12 +129,10 @@ Software Developer and Tech Instructor
 <p><strong>Web3</strong></p>
 
 <p align="left">
-
   <!-- Ethereum -->
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
       width="36" height="36" alt="Ethereum" /></a>
-
 </p>
 
 ### Socials

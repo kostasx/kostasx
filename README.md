@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Kostas Minaidis
+### Hi there! 👋 My name is Kostas Minaidis (aka `@kostasx`)
 
 Software Developer and Tech Instructor
 --------------------------------------

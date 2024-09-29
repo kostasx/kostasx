@@ -8,6 +8,7 @@ Software Developer and Tech Instructor
 
 * 🌍  I'm based in Athens, Greece
 * 🧠  I'm all about JavaScript
+* 📚  I am an educator at [intechgration.io](https://intechgration.io/)
 * 🫶  I help and support aspiring web developers on [CodeGrepper](https://www.grepper.com/profile/kostas-minaidis), [StackOverflow](https://stackoverflow.com/users/4861760/kostas-minaidis) and [YouTube](https://www.youtube.com/@kostas_x).
 
 ### Skills

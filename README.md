@@ -17,7 +17,7 @@ Software Developer and Tech Instructor
 
 <p><strong>Frontend Technologies</strong></p>
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,javascript,react,typescript,coffeescript,redux,vue,angular,jquery,tensorflow)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,sass,less,bootstrap,javascript,react,typescript,coffeescript,redux,vue,angular,jquery,tensorflow,perl)
 
 <p><strong>Backend Technologies</strong></p>
 
@@ -25,7 +25,7 @@ Software Developer and Tech Instructor
 
 <p><strong>Databases</strong></p>
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,graphql,firebase)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,graphql,firebase,prisma)
 
 <p><strong>Web3</strong></p>
 

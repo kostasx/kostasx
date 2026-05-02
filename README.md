@@ -38,28 +38,15 @@ Software Developer and Tech Instructor
 
 ### Socials
 
-[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kostas-minaidis/)
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/4861760/kostas-minaidis)
 
-[![](https://skillicons.dev/icons?i=github)](https://www.github.com/kostasx)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kostas-minaidis/)
 
-  <a href="" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
-      width="32" height="32" /></a> 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/kostasx)
 
-[![](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kostas_mns)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kostas_mns)
 
-  <a href="" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
-      width="32" height="32" /></a> 
-
-[![](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@kostas_x)
-
-  <a href="" target="_blank"
-    rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"
-      width="32" height="32" /></a> 
-
-[![](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/4861760/kostas-minaidis)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@kostas_x)
 
 
 ### Badges

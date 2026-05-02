@@ -13,7 +13,7 @@ Software Developer and Tech Instructor
 <p><strong>Software</strong></p>
 
 <!-- Git, Linux, MacOS -->
-![https://skillicons.dev/icons?i=git,linux,apple,blender]()
+![Software](https://skillicons.dev/icons?i=git,linux,apple,blender)
 
 <!--
 <p align="left">

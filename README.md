@@ -17,7 +17,7 @@ Software Developer and Tech Instructor
 
 <p><strong>Frontend Technologies</strong></p>
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,sass,less,bootstrap,javascript,react,typescript,coffeescript,redux,vue,angular,jquery,tensorflow,perl)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,tailwind,sass,less,bootstrap,javascript,react,typescript,coffeescript,redux,vue,angular,jquery,tensorflow,perl&perline=8)
 
 <p><strong>Backend Technologies</strong></p>
 

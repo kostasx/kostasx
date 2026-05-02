@@ -13,7 +13,7 @@ Software Developer and Tech Instructor
 <p><strong>Software</strong></p>
 
 <!-- Git, Linux, MacOS -->
-![Software](https://skillicons.dev/icons?i=git,linux,apple,blender)
+![Software](https://skillicons.dev/icons?i=git,linux,apple,ubuntu,vscode,blender)
 
 <p><strong>Frontend Technologies</strong></p>
 
@@ -21,7 +21,7 @@ Software Developer and Tech Instructor
 
 <p><strong>Backend Technologies</strong></p>
 
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,python,nextjs,php,flask,django,gatsby)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,python,nextjs,php,flask,django,gatsby,wordpress)
 
 <p><strong>Databases</strong></p>
 

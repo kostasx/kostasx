@@ -12,21 +12,23 @@ Software Developer and Tech Instructor
 
 <p><strong>Software</strong></p>
 
+<!-- Git, Linux, MacOS -->
+![https://skillicons.dev/icons?i=git,linux,apple,blender]()
+
+<!--
 <p align="left">
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
       width="36" height="36" alt="Git" />
   </a>
-  <!-- Linux -->
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
       width="36" height="36" alt="Linux" /></a>
-  <!-- MacOS -->
   <a href="https://apple.com" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg"
       width="36" height="36" alt="MacOS" /></a>
 </p>
+-->
 
 <p><strong>Frontend Technologies</strong></p>
 

@@ -48,11 +48,12 @@ Software Developer and Tech Instructor
 
 [![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@kostas_x)
 
+[Bluesky](https://bsky.app/profile/kostasx.bsky.social)
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kostasx"><img src="https://github-readme-stats.vercel.app/api?username=kostasx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kostasx's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/kostasx"><img src="https://github-readme-stats.vercel.app/api?username=kostasx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kostasx's GitHub stats" /></a> -->
 
 <a href="https://github.com/kostasx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostasx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

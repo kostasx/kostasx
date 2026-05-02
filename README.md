@@ -21,7 +21,7 @@ Software Developer and Tech Instructor
 
 <p><strong>Backend Technologies</strong></p>
 
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,python,nextjs,php,flask,django,gatsby,wordpress)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,python,nextjs,php,flask,django,gatsby,wordpress,laravel)
 
 <p><strong>Databases</strong></p>
 

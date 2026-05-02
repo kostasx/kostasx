@@ -25,28 +25,7 @@ Software Developer and Tech Instructor
 
 <p><strong>Databases</strong></p>
 
-<p align="left">
-
-  <a href="https://https://stackoverflow.com/users/4861760/" target="_blank" rel="noreferrer"><img 
-     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
-     width="32" height="32" alt="StackOverflow" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
-      width="36" height="36" alt="GraphQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-      width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-      width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-      width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
-      width="36" height="36" alt="Firebase" /></a>
-
-</p>
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,graphql,firebase)
 
 <p><strong>Web3</strong></p>
 

@@ -38,24 +38,29 @@ Software Developer and Tech Instructor
 
 ### Socials
 
-<a href="https://stackoverflow.com/users/4861760/kostas-minaidis">
+<a target="_blank" href="https://stackoverflow.com/users/4861760/kostas-minaidis">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
-<a href="https://www.linkedin.com/in/kostas-minaidis/">
+<a target="_blank" href="https://www.linkedin.com/in/kostas-minaidis/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a target="_blank" href="https://www.github.com/kostasx">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a target="_blank" href="https://www.twitter.com/kostas_mns">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a target="_blank" href="https://bsky.app/profile/kostasx.bsky.social">
+  <img src="" />
+  <svg  xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#0098ff" viewBox="0 0 24 24" >
+  <!--Boxicons v3.0.8 https://boxicons.com | License  https://docs.boxicons.com/free-->
+    <path d="M6.34 4.38C8.63 6.1 11.1 9.59 12 11.46c.91-1.87 3.37-5.36 5.66-7.08 1.65-1.24 4.34-2.2 4.34.86 0 .61-.35 5.13-.56 5.86-.71 2.55-3.32 3.2-5.63 2.81 4.04.69 5.07 2.97 2.85 5.25-4.22 4.33-6.07-1.09-6.54-2.47-.09-.25-.13-.37-.13-.27 0-.1-.04.02-.13.27-.47 1.39-2.32 6.81-6.54 2.47-2.22-2.28-1.19-4.56 2.85-5.25-2.31.39-4.92-.26-5.63-2.81-.21-.73-.56-5.25-.56-5.86 0-3.06 2.68-2.1 4.34-.85Z"/>
+  </svg>
 
-<!-- [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/4861760/kostas-minaidis) -->
-
-<!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kostas-minaidis/) -->
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/kostasx)
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kostas_mns)
-
-[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@kostas_x)
-
-[Bluesky](https://bsky.app/profile/kostasx.bsky.social)
+</a>
+<a target="_blank" href="https://www.youtube.com/@kostas_x">
+  <img src="https://skillicons.dev/icons?i=youtube" />
+</a>
 
 ### Badges
 

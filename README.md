@@ -38,9 +38,16 @@ Software Developer and Tech Instructor
 
 ### Socials
 
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/4861760/kostas-minaidis)
+<a href="https://stackoverflow.com/users/4861760/kostas-minaidis">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+<a href="https://www.linkedin.com/in/kostas-minaidis/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kostas-minaidis/)
+<!-- [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/4861760/kostas-minaidis) -->
+
+<!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kostas-minaidis/) -->
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/kostasx)
 
